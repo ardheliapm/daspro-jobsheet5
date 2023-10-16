@@ -26,6 +26,7 @@ public class PemilihanPercobaan305 {
             case '+':
                 hasil = angka1 + angka2;
                 System.out.println(angka1 + " + " + angka2 + "=" + hasil);
+                //break; break yang dihapus
             case '-':
                 hasil = angka1 - angka2;
                 System.out.println(angka1 + " - " + angka2 + "=" + hasil);
